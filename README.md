@@ -4,4 +4,4 @@ Author and maintainer of
 * https://hdl-modules.com
 * https://hdl-registers.com
 
-I am more active on gitlab: https://gitlab.com/LukasVik
+Also active on gitlab: https://gitlab.com/LukasVik
